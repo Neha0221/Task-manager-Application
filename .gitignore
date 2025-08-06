@@ -1,0 +1,10 @@
+# Node.js
+node_modules
+.env
+
+# React
+client/node_modules
+client/build
+
+# VS Code
+.vscode
